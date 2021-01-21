@@ -10,7 +10,7 @@
 
     <properties>
         <!--设置jackson全局依赖版本-->
-        <jackson.version>2.7.9</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
     </properties>
 
     <dependencies>
